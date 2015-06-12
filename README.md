@@ -1,2 +1,2 @@
-# koistudy2-worker
+# koistudy2/worker
 Worker repository for hletrd/koistudy2
